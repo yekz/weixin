@@ -1,5 +1,5 @@
 {
-  "name" : "icatholic/weixin",
+  "name" : "taoshuang/weixin",
   "description" : "A simple PHP client library for weixin",
   "require" : {
     "php" : ">=5.2.11",
